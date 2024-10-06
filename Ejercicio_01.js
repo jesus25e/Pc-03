@@ -11,4 +11,4 @@ function esPrimo(n){
     return true;
 }
 
-console.log(Primo(5))
+console.log(esPrimo(5))
